@@ -1,0 +1,49 @@
+h1{ 
+    
+    color: green;
+    font-family: arial black;
+    text-decoration: underline;
+    margin: 0px;
+} 
+ul{ 
+    color: red;
+    font-family: arial black;
+}
+ol{ 
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+h2{ 
+    font-size:x-large
+}   
+.cancionespecial{
+    color:crimson; font-family: cursive;
+} 
+
+h5{
+    background-color: turquoise;
+
+}  
+  
+.destacado{
+    color: red;
+}
+.foto1{
+    margin:0px auto;
+	height:22%;
+	width:36%;
+	border:10px double black;
+ 	margin-bottom:20px;
+	background-color: #41B8E5;
+
+}
+.palabraespecial{
+    color: blue;background-color: chartreuse; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: larger;
+}  
+
+#tituloyfoto{
+    /* position:static; */
+    margin-left: 40%;
+    margin-bottom: 5%;
+   
+}
